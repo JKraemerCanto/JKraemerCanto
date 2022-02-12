@@ -9,7 +9,7 @@
 • Database Analysis, Implementation, and Administration
 • Artificial Intelligence Specialist, Data Science, Bigdata and Analytics & Cognitive Solutions Technologies consulting.
 • Software and Systems Installations
-
+k
 
 <!---
 JKraemerCanto/JKraemerCanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
